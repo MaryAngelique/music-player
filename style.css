@@ -46,6 +46,18 @@ body {
     animation-play-state: paused;
 }
 
+.img-container::after {
+    content: '';
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    transform: translate(-50%, 50%);
+}
+
 .music-container.play .img-container img {
     animation-play-state: running;
   }
@@ -107,4 +119,21 @@ music-info {
   
 .music-info h4 {
     margin: 0;
+}
+
+.progress-container {
+    background: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px 0;
+    height: 4px;
+    width: 100%;
+}
+
+.progress {
+    background-color: #358597;
+    border-radius: 5px;
+    height: 100%;
+    width: 0%;
+    transition: width 0.1s linear;
 }
