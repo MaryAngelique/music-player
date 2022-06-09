@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
-- Live Site URL: [ Website](Deployed website)
+- Solution URL: [Music Player GitHub Solution](https://github.com/MaryAngelique/music-player)
+- Live Site URL: Music Player GitHub Solution
 
 ## My process
 
