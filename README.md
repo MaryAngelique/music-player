@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Music Player GitHub Solution](https://github.com/MaryAngelique/music-player)
-- Live Site URL: Music Player GitHub Solution
+- Live Site URL: [Music Player GitHub Solution](https://music-player-zero.vercel.app/)
 
 ## My process
 
